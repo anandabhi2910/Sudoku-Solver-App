@@ -11,8 +11,6 @@
 
 This project is an android app that solves sudoku, hence the name, recognized from images using Optical Character Recognition or entered manually.
 
-I've built this project the first time in early 2022 ( [v1](https://github.com/hypertensiune/Android-Sudoku-Solver-OCR/tree/v1) branch ) and this is a refresh, an update to the original project.
-
 ## How to use
 
 Download or [build](#build) the app yourself.
